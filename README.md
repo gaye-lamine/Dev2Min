@@ -1,5 +1,7 @@
 # Dev2Min 🎙️
 
+➡️ [Essayez l'app en ligne](https://2min.netlify.app/) 
+
 **Dev2Min** est une application de micro-podcasts tech, conçue pour permettre aux développeurs africains (et au-delà) de partager des idées, tips ou expériences en **2 minutes max**.  
 📱 Version Web Progressive (PWA), pensée mobile-first.
 
